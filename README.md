@@ -59,10 +59,10 @@
   Terminando as alterações na sua branch faça checkout em master:  
   `git checkout master`  
   Após obtenha os arquivos e branches mais atuais do repositório antes do merge  
-  ```
-  git fetch  
-  git pull  
-  ```
+
+  `git fetch`  
+  `git pull`  
+
   Agora sim aplique o merge:  
   `git merge "nome_da_branch"`  
   Por fim só enviar para seu repositório remoto:  
