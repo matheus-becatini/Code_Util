@@ -37,7 +37,7 @@
    
     • Use o comando: </br>
   
-    git fetc
+    git fetch
     • Para receber todas as branchs atuais no repoitório remoto
     
     git pull
