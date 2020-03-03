@@ -23,6 +23,7 @@
   <h5>Ou envie a pasta à um repositório já existente</h5>
     
  `git remote add origin https://github.com/"user"/"nome_do_repositorio"`
+
  `git push -u origin master`
    
 
