@@ -63,8 +63,8 @@
   git fetch  
   git pull  
   ```
-  Agora sim aplique o merge: 
+  Agora sim aplique o merge:  
   `git merge "nome_da_branch"`  
-  Por fim só enviar para seu repositório remoto: 
+  Por fim só enviar para seu repositório remoto:  
   `git push`
   
