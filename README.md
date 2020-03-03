@@ -30,17 +30,17 @@
    <h3>Clonar um repositório</h3>
 
     1. Crie um repositório diretamente no github </br>
-    2. use:
-        `git clone https://github.com/"user"/"nome_do_repositorio` para clonar   
+    2. use para clonar:
+                `git clone https://github.com/"user"/"nome_do_repositorio`    
     3. E já está pronto para trabalhar.
 
 
    <h3>Receber a versão mais atualizada dos arquivos do repositório</h3>
    
   Use o comando:<br>
-     `git fetch`
-  Para receber todas as branchs atuais no repoitório remoto 
-     `git pull`
+     `git fetch`  
+  Para receber todas as branchs atuais no repoitório remoto.  
+     `git pull`  
   Para receber a versão mais atual dos arquivos.
 
 
