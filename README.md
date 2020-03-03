@@ -14,13 +14,13 @@
 <h2>Criando um novo repositório com a linha de comando</h2>
 
     1. echo "# nome_do_repositorio" >> README.md
-    2. git init</br>
-    3. git add README.md</br>
-    4. git commit -m "first commit"</br>
-    5. git remote add origin https://github.com/becattini/"nome_do_repositorio"</br>
-    6. git push -u origin master</p>
+    2. git init
+    3. git add README.md
+    4. git commit -m "first commit"
+    5. git remote add origin https://github.com/becattini/"nome_do_repositorio"
+    6. git push -u origin master
 
-  <h3>Ou envie a pasta à um repositório já existente</h3>
+  <h3>Ou envie a pasta a um repositório já existente</h3>
     
  `git remote add origin https://github.com/"user"/"nome_do_repositorio"`  
  
@@ -84,5 +84,7 @@
   Listar status do git:  
   `git status`
   
+  Apagar uma branch:  
+  `git branch -D "nome do branch"`
   
-  
+ 
