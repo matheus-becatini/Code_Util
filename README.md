@@ -31,7 +31,7 @@
 
     1. Crie um repositório diretamente no github </br>
     2. use para clonar:
-                `git clone https://github.com/"user"/"nome_do_repositorio`    
+`git clone https://github.com/"user"/"nome_do_repositorio`
     3. E já está pronto para trabalhar.
 
 
