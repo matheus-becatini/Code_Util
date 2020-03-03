@@ -20,7 +20,7 @@
     5. git remote add origin https://github.com/becattini/"nome_do_repositorio"</br>
     6. git push -u origin master</p>
 
-  <h5>Ou envie a pasta à um repositório já existente</h5>
+  <h3>Ou envie a pasta à um repositório já existente</h3>
     
  `git remote add origin https://github.com/"user"/"nome_do_repositorio"`  
  
@@ -48,10 +48,23 @@
   <h3>Criando um novo Branch</h3>
   
   Para criar um novo branch basta usar o comando:  
-  `git checkout -b "nome_da_branch"`
+  `git checkout -b "nome_da_branch"`  
   Caso esteja usando um repositório remoto use:  
   `git push --set-upstream origin "nome da branch"`
   
-
-
-
+  ---
+  
+  <h3>Unindo uma branch à branch 'master' (MERGE)</h3>
+  
+  Terminando as alterações na sua branch faça checkout em master:  
+  `git checkout master`  
+  Após obtenha os arquivos e branches mais atuais do repositório antes do merge  
+  ```
+  git fetch  
+  git pull  
+  ```
+  Agora sim aplique o merge: 
+  `git merge "nome_da_branch"`  
+  Por fim só enviar para seu repositório remoto: 
+  `git push`
+  
