@@ -35,10 +35,14 @@
 
    <h3>Receber a versão mais atualizada dos arquivos do repositório</h3>
    
-    • Use o comando: </br>  
-    > git fetc
+    • Use o comando: </br>
+    ```
+    git fetc
+    ```
     • Para receber todas as branchs atuais no repoitório remoto
-    > git pull
+    ```
+    git pull
+    ```
     • Para receber a versão mais atual dos arquivos.
 
 
