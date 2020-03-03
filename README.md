@@ -11,9 +11,9 @@
 <h3>Link HTTPS do repositório</h3>
 <p>https://github.com/"user"/"nome_do_repositorio"</p>
 
-<h3>Criando um novo repositório com a linha de comando</h3>
+<h2>Criando um novo repositório com a linha de comando</h2>
 
-    1. echo "# nome_do_repositorio" >> README.md </br>
+    1. echo "# nome_do_repositorio" >> README.md
     2. git init</br>
     3. git add README.md</br>
     4. git commit -m "first commit"</br>
@@ -25,15 +25,15 @@
  `git remote add origin https://github.com/"user"/"nome_do_repositorio"`  
  
  `git push -u origin master`
-   
 
-   <h3>Clonar um repositório</h3>
+   <h3>Ou Clone um repositório</h3>
 
     1. Crie um repositório diretamente no github  
     2. use para clonar:  
     git clone https://github.com/"user"/"nome_do_repositorio  
     3. E já está pronto para trabalhar.
 
+---
 
    <h3>Receber a versão mais atualizada dos arquivos do repositório</h3>
    
@@ -42,6 +42,16 @@
   Para receber todas as branchs atuais no repoitório remoto.  
      `git pull`  
   Para receber a versão mais atual dos arquivos.
+  
+  ---
+  
+  <h3>Criando um novo Branch</h3>
+  
+  Para criar um novo branch basta usar o comando:  
+  `git checkout -b "nome_da_branch"`
+  Caso esteja usando um repositório remoto use:  
+  `git push --set-upstream origin "nome da branch"`
+  
 
 
 
