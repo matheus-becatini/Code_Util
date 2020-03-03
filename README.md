@@ -71,6 +71,7 @@
   ---
   
   <h2>Outros comando úteis</h2>
+  
   Listar ultimos comits:  
   `git log`
   
