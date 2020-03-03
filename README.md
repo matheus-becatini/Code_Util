@@ -13,35 +13,34 @@
 
 <h3>Criando um novo repositório com a linha de comando</h3>
 
-    • echo "# nome_do_repositorio" >> README.md </br>
-    • git init</br>
-    • git add README.md</br>
-    • git commit -m "first commit"</br>
-    • git remote add origin https://github.com/becattini/"nome_do_repositorio"</br>
-    • git push -u origin master</p>
+    1. echo "# nome_do_repositorio" >> README.md </br>
+    2. git init</br>
+    3. git add README.md</br>
+    4. git commit -m "first commit"</br>
+    5. git remote add origin https://github.com/becattini/"nome_do_repositorio"</br>
+    6. git push -u origin master</p>
 
   <h5>Ou envie a pasta à um repositório já existente</h5>
     
- `git remote add origin https://github.com/"user"/"nome_do_repositorio"`
-
+ `git remote add origin https://github.com/"user"/"nome_do_repositorio"`  
+ 
  `git push -u origin master`
    
 
    <h3>Clonar um repositório</h3>
 
-    • Crie um repositório diretamente no github </br>
-    • use "git clone https://github.com/"user"/"nome_do_repositorio" para clonar </br>
-    • E já está pronto para trabalhar.
+    1. Crie um repositório diretamente no github </br>
+    2. use:
+        `git clone https://github.com/"user"/"nome_do_repositorio` para clonar   
+    3. E já está pronto para trabalhar.
 
 
    <h3>Receber a versão mais atualizada dos arquivos do repositório</h3>
    
-  Use o comando:</br>
- 
-     git fetch
-  Para receber todas as branchs atuais no repoitório remoto
-    
-     git pull
+  Use o comando:<br>
+     `git fetch`
+  Para receber todas as branchs atuais no repoitório remoto 
+     `git pull`
   Para receber a versão mais atual dos arquivos.
 
 
