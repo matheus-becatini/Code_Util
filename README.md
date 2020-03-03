@@ -22,24 +22,24 @@
 
   <h5>Ou envie a pasta à um repositório já existente</h5>
     
-    • git remote add origin https://github.com/"user"/"nome_do_repositorio"</br>
-    • git push -u origin master
+ `git remote add origin https://github.com/"user"/"nome_do_repositorio"</br>
+  git push -u origin master`
    
 
    <h3>Clonar um repositório</h3>
 
     • Crie um repositório diretamente no github </br>
-    • use git clone https://github.com/"user"/"nome_do_repositorio para clonar </br>
+    • use `git clone https://github.com/"user"/"nome_do_repositorio` para clonar </br>
     • E já está pronto para trabalhar.
 
 
    <h3>Receber a versão mais atualizada dos arquivos do repositório</h3>
    
-  Use o comando:
+  Use o comando:</br>
      `git fetch`
   Para receber todas as branchs atuais no repoitório remoto
     
-     `gt pull`
+     `git pull`
    Para receber a versão mais atual dos arquivos.
 
 
