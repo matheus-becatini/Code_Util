@@ -1,0 +1,22 @@
+.estilotexto{
+    color:#000;
+    text-size-adjust: 20px;
+    
+}
+
+
+.hide {
+    display: none;
+  }
+
+
+.container{
+    padding: 20px;
+    margin-top: 10px;
+    
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+}
