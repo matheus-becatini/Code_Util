@@ -1,4 +1,4 @@
-# Code_Util
+# Code Useful
 
 ♦ Scripts úteis no dia a dia.</br>
 ♦ Algoritimos básicos que podem ser usados em diversos projetos.</br>
