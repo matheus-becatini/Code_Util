@@ -1,4 +1,4 @@
-/// <reference types="jest" />
+// <reference types="jest" />
 
 const student = require('./student'); // ES5
 
