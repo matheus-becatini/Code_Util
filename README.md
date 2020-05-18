@@ -1,12 +1,12 @@
 # Code Useful
 
 ### Scripts úteis no dia a dia.
-. Algoritimos básicos que podem ser usados em diversos projetos.
-. Alguns componentes HTML/CSS.
-. Alguns componentes React.
-. Atalhos para arquivos .TODO
-. Como usar o Jest para testes javascript
-. Testando funções assíncronas - JS
+- Algoritimos básicos que podem ser usados em diversos projetos.
+- Alguns componentes HTML/CSS.
+- Alguns componentes React.
+- Atalhos para arquivos .TODO
+- Como usar o Jest para testes javascript
+- Testando funções assíncronas - JS
 
 
 # Comandos úteis do Git & GitHub
