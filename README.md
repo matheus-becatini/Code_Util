@@ -9,6 +9,6 @@
 - Testando funções assíncronas - JS
 
 
-# Comandos úteis do Git & GitHub
+### Comandos úteis do Git & GitHub
 [Acesse o artigo no Medium](https://medium.com/@MatheusBecatini/usando-o-git-em-um-projeto-ea11016172c2)
  
