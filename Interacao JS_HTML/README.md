@@ -1,7 +1,7 @@
 # Interacao JS_HTML
-    Usando funções como getElementById, e inserindo HTML através do Java Script.
+Usando funções como getElementById, e inserindo HTML através do Java Script.
 
-* **Imput**
+* **Imput**  
 Pegando valor do Imput com o JS
-* **CreateElement**
+* **CreateElement**  
 Usando e manipulando elementos DOM
