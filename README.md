@@ -7,6 +7,7 @@
 - Atalhos para arquivos .TODO
 - Como usar o Jest para testes javascript
 - Testando funções assíncronas - JS
+- Novidades do ES6+ ... Mais informações na pasta.
 
 
 ### Comandos úteis do Git & GitHub
