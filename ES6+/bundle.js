@@ -44,9 +44,13 @@ console.log('-------------------------------------------------------------------
 //Operador Rest 
 
 console.log('Usando os operadores Rest e Spread');
+var nome = 'Fulano';
+var idade = 20;
 var obj = {
-  nome: 'Fulano',
-  idade: 20,
+  nome: nome,
+  //usando o Object Short Syntax 
+  idade: idade,
+  // Para receber o valor de uma váriavel, basta apenas deixar o nome da váriavel como atributo
   endereco: {
     rua: 'Rua tal',
     numero: 100
