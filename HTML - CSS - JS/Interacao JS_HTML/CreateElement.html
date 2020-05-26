@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Usando o Imput</title>
+</head>
+<body>
+
+    <div id="elemento">
+        <h1 id="rm">Este será removido</h1>
+
+    </div>
+    
+
+    <script>
+        const link = document.createElement('a')
+        link.setAttribute('href', 'https://matheusbecatini.github.io')
+        link.appendChild(document.createTextNode('Acesse minha página'))
+
+        const elemento = document.querySelector('#elemento')
+        elemento.appendChild(link)
+
+        const h1 = document.querySelector('h1')
+        elemento.removeChild(h1)
+    </script>
+</body>
+</html>
