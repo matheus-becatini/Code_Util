@@ -1,8 +1,8 @@
 # Usando o Webpack-Server
 
 ### Use: 
-    `yarn dev`
-Para rodar em ambiente de desenvolvimento.
+    yarn dev
+Para rodar o projeto em ambiente de desenvolvimento.
 
-    `yarn build`
-Para buildar o projeto e subir para produção.
+    yarn build
+Para buildar o projeto.
