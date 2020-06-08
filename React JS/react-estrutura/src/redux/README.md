@@ -1,0 +1,1 @@
+Os arquivos de redux só fazem sentido existir se houver controle de estado para a feature
