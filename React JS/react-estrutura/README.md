@@ -1,16 +1,11 @@
 # React_Redux
 Alguns modelos e comandos React + Redux
 
-## [Texto explicativo](https://github.com/ProdapTech/smart-solution-portal-manejo/blob/LevantamentoReestruturacaoManejo/MelhoriasManejo.md), como otimizar e melhor estruturar um projeto React
-
 ## Informações importantes
 
 Os arquivos Manager, Service só fazem sentido se houver necessidade de comunicação com micro serviços e regras de negócio que implicam nessa comunicação
 
-
-# CRIADO AUTOMATIAMENTE
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).**
 
 ## Available Scripts
 
