@@ -60,4 +60,3 @@ function atualizarHumor(humorAtual: Humor, evento: Evento): Humor {
             }
     }
 }
-
