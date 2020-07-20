@@ -3029,13 +3029,8 @@ locate-path@^3.0.0:
     p-locate "^3.0.0"
     path-exists "^3.0.0"
 
-<<<<<<< HEAD
 lodash@^4.17.19:
   version "4.17.19"
-=======
-lodash@^4.17.19, lodash@^4.17.19, lodash@^4.17.19:
-  version "4.17.15"
->>>>>>> 6cc7bede66ac3921caa8edd54907afd48948362d
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
