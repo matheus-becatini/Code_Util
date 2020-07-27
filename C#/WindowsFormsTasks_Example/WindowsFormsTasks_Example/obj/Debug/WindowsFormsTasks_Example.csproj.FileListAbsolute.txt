@@ -1,0 +1,10 @@
+C:\Users\Dell\Documents\GitHub\Code_Useful\C#\WindowsFormsTasks_Example\WindowsFormsTasks_Example\bin\Debug\WindowsFormsTasks_Example.exe.config
+C:\Users\Dell\Documents\GitHub\Code_Useful\C#\WindowsFormsTasks_Example\WindowsFormsTasks_Example\bin\Debug\WindowsFormsTasks_Example.exe
+C:\Users\Dell\Documents\GitHub\Code_Useful\C#\WindowsFormsTasks_Example\WindowsFormsTasks_Example\bin\Debug\WindowsFormsTasks_Example.pdb
+C:\Users\Dell\Documents\GitHub\Code_Useful\C#\WindowsFormsTasks_Example\WindowsFormsTasks_Example\obj\Debug\WindowsFormsTasks_Example.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Code_Useful\C#\WindowsFormsTasks_Example\WindowsFormsTasks_Example\obj\Debug\WindowsFormsTasks_Example.Form1.resources
+C:\Users\Dell\Documents\GitHub\Code_Useful\C#\WindowsFormsTasks_Example\WindowsFormsTasks_Example\obj\Debug\WindowsFormsTasks_Example.Properties.Resources.resources
+C:\Users\Dell\Documents\GitHub\Code_Useful\C#\WindowsFormsTasks_Example\WindowsFormsTasks_Example\obj\Debug\WindowsFormsTasks_Example.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\GitHub\Code_Useful\C#\WindowsFormsTasks_Example\WindowsFormsTasks_Example\obj\Debug\WindowsFormsTasks_Example.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Code_Useful\C#\WindowsFormsTasks_Example\WindowsFormsTasks_Example\obj\Debug\WindowsFormsTasks_Example.exe
+C:\Users\Dell\Documents\GitHub\Code_Useful\C#\WindowsFormsTasks_Example\WindowsFormsTasks_Example\obj\Debug\WindowsFormsTasks_Example.pdb
